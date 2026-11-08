@@ -1,55 +1,44 @@
-# 💫 About Me:
-I'm currently persuing BE 2nd year at vasavi college of engineering 
+# Hi, I'm Shiva
 
+I'm a third-year B.E. Information Technology student at Vasavi College of Engineering, Hyderabad (lateral entry, graduating in 2028). I work across machine learning, full-stack web development and IoT, and most of what's here started as a hackathon, a course project or an assignment.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiva._.1255) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tupakula-siva-shankar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tupakulashiva13@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tupakula-siva-shankar) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tupakulashiva13@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiva._.1255)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shiva13-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shiva13-ai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva13-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## What I work with
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shiva13-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- **Languages:** Python, TypeScript, JavaScript, Java, C, C++
+- **ML / data:** PyTorch, scikit-learn, LightGBM, XGBoost, CatBoost, RDKit, Jupyter
+- **Web:** React, Next.js, Vite, Tailwind CSS, Node.js, Flask, FastAPI, Streamlit
+- **Data stores and backends:** Supabase (PostgreSQL), Firebase, MySQL, Neo4j
+- **Cloud and tooling:** AWS, Docker, Git
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shiva13-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Machine learning and data
 
----
-[![](https://visitcount.itsvg.in/api?id=shiva13-ai&icon=0&color=0)](https://visitcount.itsvg.in)
+- **[VAJRA](https://github.com/shiva13-ai/vajra)** - convective-storm nowcasting dashboard built for Smart India Hackathon. Live at [vajra-bice.vercel.app](https://vajra-bice.vercel.app).
+- **[AISEHack 2.0 (Round 2)](https://github.com/shiva13-ai/AiSE-Hack-Runtime_Rebel-s-Round2)** - polymer property prediction from SMILES strings with my team, Runtime Rebels. Notebooks combine RDKit features, neural embeddings and a cross-validated ensemble of gradient-boosted and linear models.
+- **[MarineGuard](https://github.com/shiva13-ai/oilspill)** - Flask app that checks vessel AIS tracks for anomalies with an LSTM, then looks at Sentinel-1 radar imagery with a U-Net to estimate whether there is an oil spill.
+- **[GST Reconciliation](https://github.com/shiva13-ai/GST)** - knowledge-graph approach (Neo4j and FastAPI) to spotting circular trading and ITC leakage in GST filings.
+- **[AML Compliance Officer Environment](https://github.com/shiva13-ai/aml-env)** and **[Email Triage Env](https://github.com/shiva13-ai/email-triage-env)** - OpenEnv-style environments for training and evaluating AI agents on compliance review and inbox triage.
+- **[DNA Sequence Alignment Tool](https://github.com/shiva13-ai/DNA-Sequence-Alignment-Tool)** - Streamlit app for pairwise alignment (Needleman-Wunsch, Smith-Waterman, Hirschberg, seed-and-extend), made for my Design and Analysis of Algorithms course.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--# 💫 About Me:
-I'm currently persuing BE 2nd year at vasavi college of engineering 
+### Full-stack
 
+- **[GolfGive](https://github.com/shiva13-ai/golf-charity-platform)** - golf charity subscription platform on Next.js 14 and Supabase, built for an internship assignment.
+- **[All Wheels Hub](https://github.com/shiva13-ai/all-wheels-hub)** - vehicle service and marketplace app (React, Vite, Supabase) that connects users with mechanics.
+- **[Elementum](https://github.com/shiva13-ai/Elementum)** - React and Vite build of an agency site from a Figma design.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiva._.1255) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tupakula-siva-shankar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tupakulashiva13@gmail.com) 
+### Databases and desktop apps
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shiva13-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shiva13-ai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva13-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **[GigConnect](https://github.com/shiva13-ai/gigconnect)** - worker registry for daily-wage workers and contractors, in JavaFX with MySQL.
+- **[Food-Finder and Hotel Management System](https://github.com/shiva13-ai/Hotel-menu-management)** - Java Swing app where hotels manage menus and customers browse and rate dishes.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shiva13-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Certifications and training
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+AWS Solutions Architect job simulation (Forage), CCNA, Cisco Cybersecurity Essentials, and a six-month AWS and DevOps industrial training at SV Global Services, Hyderabad.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shiva13-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## GitHub
 
----
-[![](https://visitcount.itsvg.in/api?id=shiva13-ai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shiva13-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva13-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
